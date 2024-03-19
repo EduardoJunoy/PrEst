@@ -10,7 +10,7 @@
 
 **Autor/es: Eduardo Junoy, Álex Piñeiro y Alexis Canales**
 
-**Nota: 7**
+**Nota: 8**
 
 Descripción:
 Trabajo grupal en R requerido en la asignatura.
